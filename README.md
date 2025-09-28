@@ -12,12 +12,19 @@
  - "Analitical Geometry"
 
 ### Ferramentas Usadas
-* Python: Sympy Programaçao Sinbolica + Matplotlib
+* VSCode: Conda, Jupyter
+* Python: Sympy Programaçao Sinbolica + Numpy + Pandas + Matplotlib
+* GNUOctave
+
 ---
 
 ## Fundamentos da Computaçao
 - Circuitos Logicos
+- 
 
+### Ferramentas 
+* Assemble
+* Arduino
 ---
 
 ## Teoria da Computaçao
@@ -29,13 +36,16 @@
 - Grafs
 
 ## Ferramentas 
-*
-*
-*
-
+* AutomataTutor
+* JFLAP
+* Bash and ShellScripts
+* HackerRank
+* Regex101
+* ProjectEuler
+* LeetCode
 ---
 
-## Mat Comp
+## MatComp
 - Limits
 - Intregation
 - Derivate and Diferencial
@@ -43,7 +53,7 @@
 - Numeric
 
 ### Ferramentas
-
+* Python: Numpy Pandas Sympy Plotly
 ---
 
 ## DataScience
@@ -56,3 +66,7 @@
 * NeuralNetworks
 * SVM
 * CNN
+
+### Ferramentas
+* Knine
+* Dash by Plotly
