@@ -4,12 +4,15 @@
 **Aplicar a base teorica fundamental e computacional de forma pratica e consistente permitindo fixar o aprendizado teorico desde a base inical da computaçao**
 
 ## Fundamentos da Matematica Aplicada a Computaçao
-- "Algebra Linear"
-- "Combinatory"
-- "Calculus"
-- "Statistics"
-- "Analitical Geometry"
+* Assuntos Abordados
+ - "Algebra Linear"
+ - "Combinatory"
+ - "Calculus"
+ - "Statistics"
+ - "Analitical Geometry"
 
+### Ferramentas Usadas
+* Python: Sympy Programaçao Sinbolica + Matplotlib
 ---
 
 ## Fundamentos da Computaçao
@@ -25,6 +28,11 @@
 - StateMachines and TuringMachines
 - Grafs
 
+## Ferramentas 
+*
+*
+*
+
 ---
 
 ## Mat Comp
@@ -34,7 +42,17 @@
 - Vectors
 - Numeric
 
+### Ferramentas
+
 ---
 
 ## DataScience
-- 
+* LinearRegression
+* RandomForest
+* Clustering
+* DataMining
+* GradientCalculus
+* LogisticRegression
+* NeuralNetworks
+* SVM
+* CNN
